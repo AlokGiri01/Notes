@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="skip">SKIP</string>
+    <string name="welcome_back">HELLO THERE,\nWELCOME BACK</string>
+    <string name="sign_in_to_continue">Sign In to continue</string>
+    <string name="forgot_password"> <u>Forgot Password</u></string>
+    <string name="go">Sign In with Google</string>
+    <string name="welcome">Welcome,</string>
+    <string name="sign_up_to_continue">SignUp to start your new journey</string>
+    <string name="already_account">Already have an account?</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="new_user">New User?</string>
+    <string name="login"><u>Login</u></string>
+    <string name="create_note_message">Currently you have not created any note, Please create New Note.</string>
+    <string name="add_note">Add Note</string>
+    <string name="go_back_message">Are you sure you want to go back without saving note?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="search_your_note">Search your note</string>
+    <string name="delete_message">Are you sure you want to delete the Note</string>
+
+    <string name="default_web_client_id">520904550107-3jm90m7tf9o6mn88nu3licfv03m178lk.apps.googleusercontent.com</string>
+</resources>
